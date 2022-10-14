@@ -113,3 +113,7 @@ Western Europe (0.71) Northern Europe (0.7) ที่มีความสัม
 ![image](https://user-images.githubusercontent.com/115640119/195867026-31017265-c684-4bc2-8d58-01c8bd300ea7.png)
 ![image](https://user-images.githubusercontent.com/115640119/195867080-c2c00d98-8e29-4619-bcb2-0c5f82ab2779.png)
 ![image](https://user-images.githubusercontent.com/115640119/195867100-20847ac7-4cd3-4949-aba5-261798a0cdb7.png)
+
+# Conclusion
+ตลาดหุ้นแทบจะไม่มีมีความสัมพันธ์กับGDP per capita และหากต้องการต้องการดู GDP per capita ควรดูจากจีน ว่าถ้าจีนโต มีโอกาสสูงที่ประเทศอื่นๆ จะโตตาม
+ส่วนตลาดหุ้น ถ้าตลาดของสหรัฐสูงขึ้น มีโอกาสสูงที่ทำให้ตลาดหุ้นประเทศอื่นสูงตาม

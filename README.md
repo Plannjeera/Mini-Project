@@ -89,7 +89,7 @@ Western Europe (0.71) Northern Europe (0.7) ที่มีความสัม
 -	ถ้าเปรียบเทียบประเทศจีนกับแต่ละทวีป จะมี Southern Asia (0.6) Australia and New Zealand (0.6) Eastern Asia (0.58) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์แบบ strong
 -	ถ้าเปรียบเทียบประเทศจีนกับแต่ละประเทศ จะมี slovenia (0.75) india (0.74) vietnam (0.72) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong
 
-ตอบ แต่เมื่อเปรียบเทียบแล้ว ตลาดหุ้นของประเทศสหรัฐอเมริกามีความสัมพันธ์กับแต่ละทวีป และแต่ละประเทศที่สูงกว่า เมื่อเทียบกับประเทศจีน โดยเปรียบเทียบจากประเทศที่มีค่ามากที่สุด
+ตอบ แต่เมื่อเปรียบเทียบแล้ว ตลาดหุ้นของประเทศสหรัฐอเมริกามีความสัมพันธ์กับแต่ละทวีป และแต่ละประเทศที่สูงกว่า เมื่อเทียบกับประเทศจีน จากการเปรียบเทียบจากประเทศที่มีค่ามากที่สุด
 
 <img width="196" alt="image" src="https://user-images.githubusercontent.com/115640119/195862705-ea5a77b0-05eb-4435-9213-2abec8ba0d1a.png"> <img width="226" alt="image" src="https://user-images.githubusercontent.com/115640119/195862731-045a1953-3c8a-4ec7-90d8-bb07d0823484.png">
 <img width="221" alt="image" src="https://user-images.githubusercontent.com/115640119/195862746-ea599a42-4780-4744-94e1-6b54f4923a18.png"> <img width="177" alt="image" src="https://user-images.githubusercontent.com/115640119/195866211-5c069f4c-cb6e-4f32-961c-3e098a649e3b.png">
@@ -108,7 +108,7 @@ Western Europe (0.71) Northern Europe (0.7) ที่มีความสัม
 -	ถ้าเปรียบเทียบประเทศจีนกับแต่ละทวีป จะมี Southern Asia (0.6) Australia and New Zealand (0.6) Eastern Asia (0.58) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์แบบ strong
 -	ถ้าเปรียบเทียบประเทศจีนกับแต่ละประเทศ จะมี slovenia (0.75) india (0.74) vietnam (0.72) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong
 
-ตอบ แต่เมื่อเปรียบเทียบแล้ว GDP per capita ของประเทศจีน มีความสัมพันธ์กับแต่ละทวีป และแต่ละประเทศที่สูงกว่า เมื่อเทียบกับประเทศสหรัฐอเมริกา เมื่อเปรียบเทียบจากค่าที่มากที่สุด
+ตอบ แต่เมื่อเปรียบเทียบแล้ว GDP per capita ของประเทศจีน มีความสัมพันธ์กับแต่ละทวีป และแต่ละประเทศที่สูงกว่า เมื่อเทียบกับประเทศสหรัฐอเมริกา จากเปรียบเทียบจากค่าที่มากที่สุด
 
 <img width="176" alt="image" src="https://user-images.githubusercontent.com/115640119/195866622-1b004cca-9f14-4597-899d-4cb7f9a101b2.png"><img width="245" alt="image" src="https://user-images.githubusercontent.com/115640119/195866648-fe2b1980-0338-465e-b28e-b8964daa940a.png">
 <img width="207" alt="image" src="https://user-images.githubusercontent.com/115640119/195866688-b43a3da5-8cb9-4b2c-bb02-ce54c0bb3b4f.png">

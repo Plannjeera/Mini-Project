@@ -11,6 +11,7 @@ Subject: DADS5001
 1. ข้อมูลของตลาดหุ้นแต่ละประเทศหายาก และน้อย มี null ค่อนข้างเยอะ เพราะบางประเทศก็เพิ่งมีตลาดหุ้น หรือบางประเทศเพิ่งมีตลาดหุ้นที่เปิดใหม่
 2. การจัดการ Format ของตารางเพื่อสะดวกต่อการ Combine ข้อมูล ในการนำไปหา correlation
 3. การ Plot Graph ที่ยังทำได้ไม่ดีเท่าที่ควร เนื่องจากข้อมูลมีหลายประเทศทำให้กราฟค่อนข้างอ่านยาก
+
 # Analysis Question and Answer
 1. ตลาดหุ้น และGDP per capita มีความสัมพันธ์กันไหม
 
@@ -60,5 +61,3 @@ Western Europe (0.71) Northern Europe (0.7) ที่มีความสัม
 ![image](https://user-images.githubusercontent.com/115640119/195867026-31017265-c684-4bc2-8d58-01c8bd300ea7.png)
 ![image](https://user-images.githubusercontent.com/115640119/195867080-c2c00d98-8e29-4619-bcb2-0c5f82ab2779.png)
 ![image](https://user-images.githubusercontent.com/115640119/195867100-20847ac7-4cd3-4949-aba5-261798a0cdb7.png)
-
-

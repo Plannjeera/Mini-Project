@@ -73,7 +73,9 @@ Subject: DADS5001
 ส่วนของประเทศ มีประเทศ Ghana (0.58) มีความสัมพันธ์กันระดับ moderate , slovenia และ Bangladesh (0.34)  มีความสัมพันธ์กันระดับ weak และ united arab emirates (0.31) มีความสัมพันธ์กันระดับ weak
 
 <img width="204" alt="image" src="https://user-images.githubusercontent.com/115640119/195862165-56251475-b052-4d56-9946-d38f12691a1a.png"> <img width="169" alt="image" src="https://user-images.githubusercontent.com/115640119/195862216-1ba6599b-f354-4c12-a8c3-d9f24d65bc41.png">
-![image](https://user-images.githubusercontent.com/115640119/195864030-d6088df5-167e-4dab-87b4-750dfcac9d20.png)![image](https://user-images.githubusercontent.com/115640119/195864967-2ab66ee3-e19e-466d-b256-42a0f9e84c14.png)
+
+![image](https://user-images.githubusercontent.com/115640119/195881671-9f5d1325-f0d4-4373-9d71-c8304efe1ce8.png)
+![image](https://user-images.githubusercontent.com/115640119/195881640-e71b7ff4-079a-43d0-9d56-f9069abb4bd7.png)
 
 
 2. ตลาดหุ้นของประเทศสหรัฐหรือประเทศจีน ใครมีความสัมพันธ์กับประเทศอื่นมากกว่ากัน โดยเทียบจากค่ามากที่สุด
@@ -88,11 +90,11 @@ Western Europe (0.71) Northern Europe (0.7) ที่มีความสัม
 
 <img width="196" alt="image" src="https://user-images.githubusercontent.com/115640119/195862705-ea5a77b0-05eb-4435-9213-2abec8ba0d1a.png"> <img width="226" alt="image" src="https://user-images.githubusercontent.com/115640119/195862731-045a1953-3c8a-4ec7-90d8-bb07d0823484.png">
 <img width="221" alt="image" src="https://user-images.githubusercontent.com/115640119/195862746-ea599a42-4780-4744-94e1-6b54f4923a18.png"> <img width="177" alt="image" src="https://user-images.githubusercontent.com/115640119/195866211-5c069f4c-cb6e-4f32-961c-3e098a649e3b.png">
+![image](https://user-images.githubusercontent.com/115640119/195881988-6d817229-a9d5-4c39-ada5-bc684fb81186.png)
+![image](https://user-images.githubusercontent.com/115640119/195882002-058c4259-655c-458d-b7a5-c57e9a906f0d.png)
+![image](https://user-images.githubusercontent.com/115640119/195882054-aa22c54d-c2b3-4692-8bdd-dc7db28ddd2e.png)
+![image](https://user-images.githubusercontent.com/115640119/195882069-4b7c4fc3-54fb-46f9-bdd7-eed53d55145b.png)
 
-![image](https://user-images.githubusercontent.com/115640119/195865235-6c087e3a-1b33-4b94-b3ff-715d43c67928.png)
-![image](https://user-images.githubusercontent.com/115640119/195865541-42afa4b7-91cf-47b9-911f-f6e3c926b0dd.png)
-![image](https://user-images.githubusercontent.com/115640119/195865623-91e528db-3461-4189-bd13-da6800c82a42.png)
-![image](https://user-images.githubusercontent.com/115640119/195865659-3526c6ef-938d-49f8-815e-9b5c048d9e6c.png)
 
 
 3. GDP per capita ของประเทศสหรัฐหรือประเทศจีน ใครมีความสัมพันธ์กับประเทศอื่นมากกว่ากัน โดยเทียบจากค่ามากที่สุด
@@ -109,11 +111,12 @@ Western Europe (0.71) Northern Europe (0.7) ที่มีความสัม
 <img width="207" alt="image" src="https://user-images.githubusercontent.com/115640119/195866688-b43a3da5-8cb9-4b2c-bb02-ce54c0bb3b4f.png">
 <img width="207" alt="image" src="https://user-images.githubusercontent.com/115640119/195866725-8f82d338-24be-4efa-aa3f-67e28da47336.png">
 
-![image](https://user-images.githubusercontent.com/115640119/195867008-fedde749-78e5-4b7a-a391-356bc2faab12.png)
-![image](https://user-images.githubusercontent.com/115640119/195867026-31017265-c684-4bc2-8d58-01c8bd300ea7.png)
-![image](https://user-images.githubusercontent.com/115640119/195867080-c2c00d98-8e29-4619-bcb2-0c5f82ab2779.png)
-![image](https://user-images.githubusercontent.com/115640119/195867100-20847ac7-4cd3-4949-aba5-261798a0cdb7.png)
+![image](https://user-images.githubusercontent.com/115640119/195882113-1f00e6d1-f3dd-4978-8dd0-204aaa276852.png)
+![image](https://user-images.githubusercontent.com/115640119/195882122-796e2f3f-a6f2-4fad-becf-14b9e34f24d2.png)
+![image](https://user-images.githubusercontent.com/115640119/195882142-2ac51d28-9453-4381-86ff-62f926980eb7.png)
+![image](https://user-images.githubusercontent.com/115640119/195882159-5e41d87a-edc9-4fbb-9ae4-df060804cb62.png)
+
 
 # Conclusion
-ตลาดหุ้นแทบจะไม่มีมีความสัมพันธ์กับGDP per capita และหากต้องการต้องการดู GDP per capita ควรดูจากจีน ว่าถ้าจีนโต มีโอกาสสูงที่ประเทศอื่นๆ จะโตตาม
+ตลาดหุ้นแทบจะไม่มีมีความสัมพันธ์กับGDP per capita ถ้าเทียบตามรายทวีป ต้องดูเป็นประเทศๆไป และหากต้องการต้องการดู GDP per capita ควรดูจากจีน ว่าถ้าจีนโต มีโอกาสสูงที่ประเทศอื่นๆ จะโตตาม
 ส่วนตลาดหุ้น ถ้าตลาดของสหรัฐสูงขึ้น มีโอกาสสูงที่ทำให้ตลาดหุ้นประเทศอื่นสูงตาม

@@ -69,6 +69,8 @@ Subject: DADS5001
 <img width="1003" alt="image" src="https://user-images.githubusercontent.com/115640119/195882827-5a0fd1b4-8ad3-4b40-9ed9-f6465d7c5991.png">
 <img width="996" alt="image" src="https://user-images.githubusercontent.com/115640119/195882896-6c80bd0c-700e-43b8-997b-4a66c96f797d.png">
 
+# Explain about color in graph
+สีของกราฟจะแสดงความสัมพันธ์ โดยสีแดงคือมีความสัมพันธ์กัน และสีน้ำเงินคือไม่มีความสัมพันธ์ซึ่งกันและกัน ความเข้มของสีจะแสดงถึงระดับความรุนแรงของความสัมพันธ์ เข้มมากก็จะมีความสัมพันธ์กันมาก
 
 # Analysis Question and Answer
 1. ตลาดหุ้น และGDP per capita มีความสัมพันธ์กันไหม

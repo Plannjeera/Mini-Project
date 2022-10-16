@@ -84,13 +84,13 @@ Subject: DADS5001
 
 2. ตลาดหุ้นของประเทศสหรัฐหรือประเทศจีน ใครมีความสัมพันธ์กับประเทศอื่นมากกว่ากัน
 
--	ถ้าเปรียบเทียบประเทศสหรัฐอเมริกากับแต่ละทวีป จะมี Australia and New Zealand (0.74)
-Western Europe (0.71) Northern Europe (0.7) ที่มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong และมีค่าเฉลี่ยอยู่ที่ 0.53
--	ถ้าเปรียบเทียบประเทศสหรัฐอเมริกากับแต่ละประเทศ จะมี switzerland (0.90) sweden และ netherlands (0.80) nigeria (0.8) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ very strong และมีค่าเฉลี่ยอยู่ที่ 0.53
--	ถ้าเปรียบเทียบประเทศจีนกับแต่ละทวีป จะมี Southern Asia (0.6) Australia and New Zealand (0.6) Eastern Asia (0.58) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์แบบ strong และมีค่าเฉลี่ยอยู่ที่ 0.47
--	ถ้าเปรียบเทียบประเทศจีนกับแต่ละประเทศ จะมี slovenia (0.75) india (0.74) vietnam (0.72) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong และมีค่าเฉลี่ยอยู่ที่ 0.47
+-	ถ้าเปรียบเทียบประเทศสหรัฐอเมริกากับแต่ละทวีป มีค่าเฉลี่ยของความสัมพันธ์อยู่ที่ 0.53 โดยจะมี Australia and New Zealand (0.74)
+Western Europe (0.71) Northern Europe (0.7) ที่มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong
+-	ถ้าเปรียบเทียบประเทศสหรัฐอเมริกากับแต่ละประเทศ มีค่าเฉลี่ยของความสัมพันธ์อยู่ที่ 0.53 โดยมี switzerland (0.90) sweden และ netherlands (0.80) nigeria (0.8) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ very strong
+-	ถ้าเปรียบเทียบประเทศจีนกับแต่ละทวีป จะมีค่าเฉลี่ยของความสัมพันธ์อยู่ที่ 0.47 โดยมี Southern Asia (0.6) Australia and New Zealand (0.6) Eastern Asia (0.58) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์แบบ strong
+-	ถ้าเปรียบเทียบประเทศจีนกับแต่ละประเทศ มีค่าเฉลี่ยของความสัมพันธ์อยู่ที่ 0.47 โดยมี slovenia (0.75) india (0.74) vietnam (0.72) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong
 
-โดยสีแดงบ่งบอกถึงมีความสัมพันธ์กัน สีน้ำเงินไม่ม่ความสัมพันธ์ซึ่งกันและกัน
+โดยสีแดงบ่งบอกถึงมีความสัมพันธ์กัน สีน้ำเงินไม่ม่ความสัมพันธ์ซึ่งกันและกัน โดยจะสังเกตว่าสีแดงของทางฝั่งสหรัฐจะเข้มกว่าของทางฝั่งจีน
 
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/115640119/196042549-ee1fd50d-288d-4d04-9b15-950b1117a63a.png"> <img width="373" alt="image" src="https://user-images.githubusercontent.com/115640119/196042563-bfb8ef5a-52c9-4e38-92f6-e565b72dbeee.png">
 <img width="339" alt="image" src="https://user-images.githubusercontent.com/115640119/196042579-0aa1449a-aa17-47d7-9331-eecbff29824f.png"> <img width="377" alt="image" src="https://user-images.githubusercontent.com/115640119/196042593-51c47087-b306-4ed7-9017-160c6dbb3ff1.png">
@@ -98,35 +98,31 @@ Western Europe (0.71) Northern Europe (0.7) ที่มีความสัม
 ![image](https://user-images.githubusercontent.com/115640119/196042643-7390f4b7-8143-4eb1-a330-1286179f0a30.png)
 
 
-
-ตอบ แต่เมื่อเปรียบเทียบแล้ว ตลาดหุ้นของประเทศสหรัฐอเมริกามีความสัมพันธ์กับแต่ละทวีป และแต่ละประเทศที่สูงกว่า เมื่อเทียบกับประเทศจีน จากการเปรียบเทียบจากค่าเฉลี่ย
+ตอบ ตลาดหุ้นของประเทศสหรัฐอเมริกามีความสัมพันธ์กับแต่ละทวีป และแต่ละประเทศที่สูงกว่า เมื่อเทียบกับประเทศจีน จากการเปรียบเทียบจากค่าเฉลี่ย
 
 <img width="267" alt="image" src="https://user-images.githubusercontent.com/115640119/196041588-b45f38ac-21d6-4197-9d03-8970dc68ac7c.png">
 
 
+3. รายได้ต่อหัวของประเทศสหรัฐหรือประเทศจีน ใครมีความสัมพันธ์กับประเทศอื่นมากกว่ากัน
 
-
-
-
-
-3. รายได้ต่อหัวของประเทศสหรัฐหรือประเทศจีน ใครมีความสัมพันธ์กับประเทศอื่นมากกว่ากัน โดยเทียบจากค่ามากที่สุด
-
--	ถ้าเปรียบเทียบประเทศสหรัฐอเมริกากับแต่ละทวีป จะมี Australia and New Zealand (0.74)
+-	ถ้าเปรียบเทียบประเทศสหรัฐอเมริกากับแต่ละทวีป มีค่าเฉลี่ยของความสัมพันธ์อยู่ที่ 0.28 โดยมี Australia and New Zealand (0.74)
 Western Europe (0.71) Northern Europe (0.7) ที่มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong
--	ถ้าเปรียบเทียบประเทศสหรัฐอเมริกากับแต่ละประเทศ จะมี switzerland (0.90) sweden และ netherlands (0.80) nigeria (0.8) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ very strong
--	ถ้าเปรียบเทียบประเทศจีนกับแต่ละทวีป จะมี Southern Asia (0.6) Australia and New Zealand (0.6) Eastern Asia (0.58) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์แบบ strong
--	ถ้าเปรียบเทียบประเทศจีนกับแต่ละประเทศ จะมี slovenia (0.75) india (0.74) vietnam (0.72) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong
+-	ถ้าเปรียบเทียบประเทศสหรัฐอเมริกากับแต่ละประเทศ มีค่าเฉลี่ยของความสัมพันธ์อยู่ที่ 0.28 โดยมี switzerland (0.90) sweden และ netherlands (0.80) nigeria (0.8) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ very strong
+-	ถ้าเปรียบเทียบประเทศจีนกับแต่ละทวีป มีค่าเฉลี่ยของความสัมพันธ์อยู่ที่ 0.56 โดยมี Southern Asia (0.6) Australia and New Zealand (0.6) Eastern Asia (0.58) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์แบบ strong
+-	ถ้าเปรียบเทียบประเทศจีนกับแต่ละประเทศ มีค่าเฉลี่ยของความสัมพันธ์อยู่ที่ 0.56 โดยมี slovenia (0.75) india (0.74) vietnam (0.72) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong
+
+โดยสีแดงบ่งบอกถึงมีความสัมพันธ์กัน สีน้ำเงินไม่ม่ความสัมพันธ์ซึ่งกันและกัน โดยจะสังเกตว่าสีแดงของทางฝั่งของจีนจะเข้ม และมีมากกว่าของทางฝั่งสหรัฐ
+
+<img width="316" alt="image" src="https://user-images.githubusercontent.com/115640119/196044223-03e7bbd9-c98b-4b55-a3eb-9c6cba6ed221.png"><img width="302" alt="image" src="https://user-images.githubusercontent.com/115640119/196044218-0ca3276b-f230-446a-b483-b66e81af994e.png">
+
+<img width="320" alt="image" src="https://user-images.githubusercontent.com/115640119/196044258-ee65717c-6223-46ea-9907-c99201644c89.png"> <img width="338" alt="image" src="https://user-images.githubusercontent.com/115640119/196044245-69c2f5cc-4ab1-4bd1-9b98-1e55c0f7de84.png"> 
+
+![image](https://user-images.githubusercontent.com/115640119/196044313-708f3354-3e88-4e93-978e-317748f29513.png)
+
 
 ตอบ แต่เมื่อเปรียบเทียบแล้วรายได้ต่อหัวของประเทศจีน มีความสัมพันธ์กับแต่ละทวีป และแต่ละประเทศที่สูงกว่า เมื่อเทียบกับประเทศสหรัฐอเมริกา จากเปรียบเทียบจากค่าที่มากที่สุด
 
-<img width="176" alt="image" src="https://user-images.githubusercontent.com/115640119/195866622-1b004cca-9f14-4597-899d-4cb7f9a101b2.png"><img width="245" alt="image" src="https://user-images.githubusercontent.com/115640119/195866648-fe2b1980-0338-465e-b28e-b8964daa940a.png">
-<img width="207" alt="image" src="https://user-images.githubusercontent.com/115640119/195866688-b43a3da5-8cb9-4b2c-bb02-ce54c0bb3b4f.png">
-<img width="207" alt="image" src="https://user-images.githubusercontent.com/115640119/195866725-8f82d338-24be-4efa-aa3f-67e28da47336.png">
-
-![image](https://user-images.githubusercontent.com/115640119/195882113-1f00e6d1-f3dd-4978-8dd0-204aaa276852.png)
-![image](https://user-images.githubusercontent.com/115640119/195882122-796e2f3f-a6f2-4fad-becf-14b9e34f24d2.png)
-![image](https://user-images.githubusercontent.com/115640119/195882142-2ac51d28-9453-4381-86ff-62f926980eb7.png)
-![image](https://user-images.githubusercontent.com/115640119/195882159-5e41d87a-edc9-4fbb-9ae4-df060804cb62.png)
+<img width="263" alt="image" src="https://user-images.githubusercontent.com/115640119/196044054-6961ea51-dd7c-4223-97db-17934d22f52e.png">
 
 
 # Conclusion

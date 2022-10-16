@@ -76,12 +76,13 @@ Subject: DADS5001
 1. ตลาดหุ้น และรายได้ต่อหัวมีความสัมพันธ์กันไหม
 
 ตอบ แทบจะไม่มีความสัมพันธ์กันในข้อมูลของแต่ละทวีป เนื่องจากค่าที่มากที่สุดที่หาแต่ละทวีปได้คือ Eastern Africa (0.15) ซึ่งอยู่ในเกณฑ์ very weak 
-ส่วนของประเทศ มีประเทศ Ghana (0.58) มีความสัมพันธ์กันระดับ moderate , slovenia และ Bangladesh (0.34)  มีความสัมพันธ์กันระดับ weak และ united arab emirates (0.31) มีความสัมพันธ์กันระดับ weak
+ส่วนของประเทศ มีประเทศที่มีความสัมพันธ์มากสุดคือประเทศ Ghana (0.58) มีความสัมพันธ์กันระดับ moderate
 
-<img width="204" alt="image" src="https://user-images.githubusercontent.com/115640119/195862165-56251475-b052-4d56-9946-d38f12691a1a.png"> <img width="169" alt="image" src="https://user-images.githubusercontent.com/115640119/195862216-1ba6599b-f354-4c12-a8c3-d9f24d65bc41.png">
+<img width="256" alt="image" src="https://user-images.githubusercontent.com/115640119/196040665-14109bf1-3b2e-4952-be6f-38f84f4b28e2.png">width="169" alt="image" src="https://user-images.githubusercontent.com/115640119/195862216-1ba6599b-f354-4c12-a8c3-d9f24d65bc41.png">
 
-![image](https://user-images.githubusercontent.com/115640119/195881671-9f5d1325-f0d4-4373-9d71-c8304efe1ce8.png)
-![image](https://user-images.githubusercontent.com/115640119/195881640-e71b7ff4-079a-43d0-9d56-f9069abb4bd7.png)
+<img width="256" alt="image" src="https://user-images.githubusercontent.com/115640119/196040723-59192d43-d441-4749-93be-29dbc44f5e56.png">
+<img width="243" alt="image" src="https://user-images.githubusercontent.com/115640119/196040729-79835696-145a-4ac1-94f7-559f38b8867c.png">
+
 
 
 2. ตลาดหุ้นของประเทศสหรัฐหรือประเทศจีน ใครมีความสัมพันธ์กับประเทศอื่นมากกว่ากัน โดยเทียบจากค่ามากที่สุด

@@ -75,32 +75,37 @@ Subject: DADS5001
 # Analysis Question and Answer
 1. ตลาดหุ้น และรายได้ต่อหัวมีความสัมพันธ์กันไหม
 
+ถ้าเปรียบเทียบจากสีของกราฟกราฟที่มีความสัมพันธ์กันจะมีสีแดง และไม่มีความสัมพันธ์กันจะมีสีน้ำเงิน จะเห็นว่าเป็นสีฟ้าค่อนไปทางน้ำเงิน ยกเว้นประเทศ Ghana
+
+<img width="438" alt="image" src="https://user-images.githubusercontent.com/115640119/196042334-d45a0617-55cb-4fee-b327-c11384329402.png"> <img width="434" alt="image" src="https://user-images.githubusercontent.com/115640119/196042342-8b6e5cc0-d8ce-4039-8e6a-b602730bc4b8.png">
+
 ตอบ แทบจะไม่มีความสัมพันธ์กันในข้อมูลของแต่ละทวีป เนื่องจากค่าที่มากที่สุดที่หาแต่ละทวีปได้คือ Eastern Africa (0.15) ซึ่งอยู่ในเกณฑ์ very weak 
-ส่วนของประเทศ มีประเทศที่มีความสัมพันธ์มากสุดคือประเทศ Ghana (0.58) มีความสัมพันธ์กันระดับ moderate
+ส่วนของประเทศ มีประเทศที่มีความสัมพันธ์มากสุดคือประเทศ Ghana (0.58) มีความสัมพันธ์กันระดับ moderate จึงควรดูเป็นรายประเทศ
 
-<img width="256" alt="image" src="https://user-images.githubusercontent.com/115640119/196040665-14109bf1-3b2e-4952-be6f-38f84f4b28e2.png">width="169" alt="image" src="https://user-images.githubusercontent.com/115640119/195862216-1ba6599b-f354-4c12-a8c3-d9f24d65bc41.png">
-
-<img width="256" alt="image" src="https://user-images.githubusercontent.com/115640119/196040723-59192d43-d441-4749-93be-29dbc44f5e56.png">
-<img width="243" alt="image" src="https://user-images.githubusercontent.com/115640119/196040729-79835696-145a-4ac1-94f7-559f38b8867c.png">
-
-
-
-2. ตลาดหุ้นของประเทศสหรัฐหรือประเทศจีน ใครมีความสัมพันธ์กับประเทศอื่นมากกว่ากัน โดยเทียบจากค่ามากที่สุด
+2. ตลาดหุ้นของประเทศสหรัฐหรือประเทศจีน ใครมีความสัมพันธ์กับประเทศอื่นมากกว่ากัน
 
 -	ถ้าเปรียบเทียบประเทศสหรัฐอเมริกากับแต่ละทวีป จะมี Australia and New Zealand (0.74)
-Western Europe (0.71) Northern Europe (0.7) ที่มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong
--	ถ้าเปรียบเทียบประเทศสหรัฐอเมริกากับแต่ละประเทศ จะมี switzerland (0.90) sweden และ netherlands (0.80) nigeria (0.8) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ very strong
--	ถ้าเปรียบเทียบประเทศจีนกับแต่ละทวีป จะมี Southern Asia (0.6) Australia and New Zealand (0.6) Eastern Asia (0.58) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์แบบ strong
--	ถ้าเปรียบเทียบประเทศจีนกับแต่ละประเทศ จะมี slovenia (0.75) india (0.74) vietnam (0.72) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong
+Western Europe (0.71) Northern Europe (0.7) ที่มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong และมีค่าเฉลี่ยอยู่ที่ 0.53
+-	ถ้าเปรียบเทียบประเทศสหรัฐอเมริกากับแต่ละประเทศ จะมี switzerland (0.90) sweden และ netherlands (0.80) nigeria (0.8) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ very strong และมีค่าเฉลี่ยอยู่ที่ 0.53
+-	ถ้าเปรียบเทียบประเทศจีนกับแต่ละทวีป จะมี Southern Asia (0.6) Australia and New Zealand (0.6) Eastern Asia (0.58) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์แบบ strong และมีค่าเฉลี่ยอยู่ที่ 0.47
+-	ถ้าเปรียบเทียบประเทศจีนกับแต่ละประเทศ จะมี slovenia (0.75) india (0.74) vietnam (0.72) มีความสัมพันธ์กันมากสุด 3 อันดับแรก โดยมีความสัมพันธ์กันแบบ strong และมีค่าเฉลี่ยอยู่ที่ 0.47
 
-ตอบ แต่เมื่อเปรียบเทียบแล้ว ตลาดหุ้นของประเทศสหรัฐอเมริกามีความสัมพันธ์กับแต่ละทวีป และแต่ละประเทศที่สูงกว่า เมื่อเทียบกับประเทศจีน จากการเปรียบเทียบจากประเทศที่มีค่ามากที่สุด
+โดยสีแดงบ่งบอกถึงมีความสัมพันธ์กัน สีน้ำเงินไม่ม่ความสัมพันธ์ซึ่งกันและกัน
 
-<img width="196" alt="image" src="https://user-images.githubusercontent.com/115640119/195862705-ea5a77b0-05eb-4435-9213-2abec8ba0d1a.png"> <img width="226" alt="image" src="https://user-images.githubusercontent.com/115640119/195862731-045a1953-3c8a-4ec7-90d8-bb07d0823484.png">
-<img width="221" alt="image" src="https://user-images.githubusercontent.com/115640119/195862746-ea599a42-4780-4744-94e1-6b54f4923a18.png"> <img width="177" alt="image" src="https://user-images.githubusercontent.com/115640119/195866211-5c069f4c-cb6e-4f32-961c-3e098a649e3b.png">
-![image](https://user-images.githubusercontent.com/115640119/195881988-6d817229-a9d5-4c39-ada5-bc684fb81186.png)
-![image](https://user-images.githubusercontent.com/115640119/195882002-058c4259-655c-458d-b7a5-c57e9a906f0d.png)
-![image](https://user-images.githubusercontent.com/115640119/195882054-aa22c54d-c2b3-4692-8bdd-dc7db28ddd2e.png)
-![image](https://user-images.githubusercontent.com/115640119/195882069-4b7c4fc3-54fb-46f9-bdd7-eed53d55145b.png)
+<img width="361" alt="image" src="https://user-images.githubusercontent.com/115640119/196042549-ee1fd50d-288d-4d04-9b15-950b1117a63a.png"> <img width="373" alt="image" src="https://user-images.githubusercontent.com/115640119/196042563-bfb8ef5a-52c9-4e38-92f6-e565b72dbeee.png">
+<img width="339" alt="image" src="https://user-images.githubusercontent.com/115640119/196042579-0aa1449a-aa17-47d7-9331-eecbff29824f.png"> <img width="377" alt="image" src="https://user-images.githubusercontent.com/115640119/196042593-51c47087-b306-4ed7-9017-160c6dbb3ff1.png">
+
+![image](https://user-images.githubusercontent.com/115640119/196042643-7390f4b7-8143-4eb1-a330-1286179f0a30.png)
+
+
+
+ตอบ แต่เมื่อเปรียบเทียบแล้ว ตลาดหุ้นของประเทศสหรัฐอเมริกามีความสัมพันธ์กับแต่ละทวีป และแต่ละประเทศที่สูงกว่า เมื่อเทียบกับประเทศจีน จากการเปรียบเทียบจากค่าเฉลี่ย
+
+<img width="267" alt="image" src="https://user-images.githubusercontent.com/115640119/196041588-b45f38ac-21d6-4197-9d03-8970dc68ac7c.png">
+
+
+
+
 
 
 
